@@ -1,0 +1,80 @@
+3) Creative Brief: Minority Report (1) (10:00-12:00)
+
+4.1 Data scientist
+4.1a Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
+
+Extracting data from a source, transform the data to then load it into a database. In the data bank it can be easily found and read by the end user. That’s why the data scientist needs to make it easier for everyone to understand the data they will transform
+
+Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
+4.1b Come up with at least one question for the guest lecturer Willem van der Geest concerning his work as a data scientist.
+
+With the amount of different people working on the data extraction/transformation. How do you keep being on the same page when it comes to the workflow/output.
+
+
+5) Creative Brief: Minority Report (2) (13:30-15:00)
+As part of the Project Brief you are required to give a 7-minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI (i.e. domains, and subdomains). Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
+
+Note: You will be introduced to the Taxonomy of AI on Thursday.
+But, where do I start...
+
+After watching Minority Report, ask yourself, 'What AI technologies, methods, and/or practices were depicted in the movie?'. When you have successfully identified an AI topic, search the internet for information that can be used as evidence to support your argument. Google is often a good starting point. Other useful sources: Papers with Code, Nature, Connected Papers, and The Guardian. Do not restrict yourself to one source; try looking for multiple sources to back your arguments. After successfully identifying and describing the AI topic, evaluate the feasibility by critically assessing its possible application(s) within a real-life (business) setting. For example, look for (company) blogs (e.g., Hitachi's Industrial AI blog, AI Trends, etc.) or periodicals that present, and discuss implementations of you chosen AI topic. Finally, choose a citation style guide, and reference your sources accordingly.
+
+Good luck!
+
+Notes: 
+
+Facial recognition
+Predicting outcomes of future events
+Simple tasks activities by voice recognition
+Automated cars
+Eye recognition 
+Pattern recognition
+Human failure of providing provisions
+Personalized advertising 
+Production line
+
+Facial recognition used for unlocking systems, security measures and data collection
+
+https://www.cigionline.org/articles/how-facial-recognition-technology-permeated-everyday-life/
+
+
+
+6a Complete the LinkedIn course Information Literacy (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage Research and Information Literacy.
+
+6b Identify, and select an AI related topic within one of the following BUAS domains:
+
+Tourism
+Logistics
+Games
+Write your answer down.
+
+Example: Autonomous shipping (BUAS domain: Logistics)
+
+6c Find one scholarly source, and one popular source of information on your chosen AI topic. Tip: Use one of the search strategies presented in the Information Literacy course (e.g., Boolean searching).
+
+6d Create an in-text, and bibliography citation for your popular, and scholarly source.
+
+Example:
+
+Scholarly source: Towards Autonomous Shipping: Benefits and Challenges in the Field of Information Technology and Telecommunication
+
+Bibliography: Yanchin, I., & Petrov, O. (2020). Towards autonomous shipping: Benefits and challenges in the field of information technology and telecommunication. TransNav: International Journal on Marine Navigation and Safety of Sea Transportation, 14.
+
+In-text: (Yanchin and Petrov, 2020)
+
+Popular source: Automated Marine Highways Are Key to a Nation’s Growth & Security
+
+Bibliography: Automated Marine Highways Are Key to a Nation's Growth & Security. (2022, February 11). Automated Marine Highways Are Key to a Nation’s Growth & Security https://sea-machines.com/automated-marine-highways-are-key-to-a-nations-growth-security/
+
+In-text: ("Automated Marine Highways Are Key to a Nation's Growth & Security," 2022)
+
+6e Imagine writing a research report, and finding a quote similar to one below.
+
+Much has been written about AI's potential to reflect both the best and the worst of humanity. For example, we have seen AI providing conversation and comfort to the lonely; we have also seen AI engaging in racial discrimination. Yet the biggest harm that AI is likely to do to individuals in the short term is job displacement, as the amount of work we can automate with AI is vastly bigger than before. As leaders, it is incumbent on all of us to make sure we are building a world in which every individual has an opportunity to thrive (Andrew Ng, Co-founder and led of Google Brain).
+
+After a thorough evaluation, you decide to include the quote in your report. List, and describe three approaches that help you incorporate the information correctly, thereby avoiding plagiarism. Write your answer down.
+
+6f Reading scholarly text can be complex at first, but when you get the hang of it, you will most likely enjoy reading them because they often provide valuable new insights that you can use for your projects. The following guide shows you how to effectively read a research article by applying a practical and efficient three-pass method. Please, describe the three-pass procedure. Write your answer down.
+
+How to read a paper
+Note: As you might have noticed, Computing Machinery and Intelligence (Turing, 1950) does not look like your typical data science or artificial intelligence research article. It is missing headings such as 'Introduction', 'Experiments', and/or 'Conclusion'. A good example of a traditional artificial intelligence (i.e., computer vision) article can be found, here.
