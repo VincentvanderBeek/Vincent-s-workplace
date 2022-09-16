@@ -1,0 +1,46 @@
+2) Data analysis methods
+
+2e Come up with at least one situation, where you could deploy a descriptive, diagnostic, predictive, and prescriptive analysis. Elaborate on your answer.
+
+Descriptive: 
+
+A phone made by apple/samsung/oneplus: Gives insight into the situation it is looked at, with that you can assess if things are going well or can be improved to get better results
+
+
+Diagnostic: 
+
+In a factory creating chemical products: You want for the most part to go according to plan. With a diagnostic analysis you keep track if everything goes right and it keeps creating the product that is sought after.
+
+
+Predictive: 
+
+Investment in stocks: This is the most risk free way to make decisions without knowing a definite answer. Predicting with all the information you can get gives you a percentage in which you can choose the most comfortable action
+
+Prescriptive:  
+
+Medical advice: Everyone has to get medicine once in a while so pharmacists will try the prescribe you the best medicine you can get according to what they know about you or the problems that are present. 
+
+
+Source: https://www.weirdgeek.com/2018/11/types-of-analytics/
+
+2f Power BI is one of the most popular dashboarding tools. List another dashboarding tool, and provide at least one 'strength' and 'weakness'. Write your answer down.
+
+Dashboard: Tableau Public is part of the Tableau software portfolio that offers three different software choices: Tableau Public, Tableau Reader and Tableau Desktop
+
+Strength:
+
+Tableau can handle millions of rows of data with ease. Different types of visualization can be created with a large amount of data without impacting the performance of the dashboards.
+Using drag-n-drop functionalities of Tableau, the user can create a very interactive visual within minutes. The interface can handle endless variations while also limiting you from creating charts that are against data visualization best practices. 
+Tableau Dashboard has a great reporting feature that allows you to customize dashboard specifically for a certain device such as a mobile phone or laptop. 
+
+
+Weakness:
+
+Tableau does not provide the feature of automatic refreshing of the reports with the help of scheduling.
+Tableau’s parameters are static and always single value can be selected using a parameter. Whenever the data gets changed, these parameters need to be updated manually every time. 
+Tableau is strictly a visualization tool. Tableau Desktop allows you do to very basic preprocessing. This includes joining and blending data. Also, you have the ability to change data types. 
+
+Source: https://www.absentdata.com/advantages-and-disadvantages-of-tableau/
+
+ 
+2g In Week 4, you will start to develop your own dashboard with Power BI. In our program, we stimulate self-directed learning, which includes setting your own goals, and identifying relevant sources of information (in the first two years under supervision of a teaching staff member). Let start with the latter; find at least three useful Power BI resources for your Block A project (e.g., books, online tutorials, etc.). List the resources (, and share them with your peers via a post in Microsoft Teams' 'Coffee Corner').
