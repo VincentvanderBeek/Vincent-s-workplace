@@ -1,3 +1,4 @@
+Day 1
 1.1c Two intelligent agents are playing chess with a clock. One of them is Deep Blue, while the other is Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
 
 Specifying the task environment:
@@ -10,22 +11,25 @@ Sensors: Looking at all moves the opponent makes - digital, movement of pieces, 
 Properties of the task environment:
 
 a) Fully observable or b) partially observable
+
 A, the board and moves are fully visible for deep blue
 
 a) Deterministic or b) stochastic
+
 A, deep blue has to determine what is the best moves for pieces are always changing per turn of agent
 
 a) Episodic or b) sequential
+
 A, Deep blue has to change moves depending on the opponent’s reaction to their move
 
 a) Static, b) dynamic or c) semi-dynamic
+
 B, Pieces are always changing, either by movement or removal
 
 a) Discrete or b) continuous
 A, there are turns to be made, so each agent has time to change what they are doing. But only pieces are changing. The board is not
 
 a) Single agent or b) multi-agent
-
 
 B, “B’s behavior (deep blue) is best described as maximizing a performance measure whose value depends on agent A’s behavior (Gary Kasparov).”
 
@@ -39,24 +43,30 @@ iRobot Roomba i7158
 Performance measure: cleaning - reach - fast - removal - durability
 Environment: Time - movement - familiarity 
 Actuators: vacuuming - moving 
-Sensors: dust - hair - rubbish
+Sensors: dust- rubbish
 
 a) Fully observable or b) partially observable
+
 B, the roomba does not see the full picture of the room so this could change without its knowledge.
 
 a) Deterministic or b) stochastic
+
 B, most objects and especially the floor would stay the same throughout any minor changes
 
 a) Episodic or b) sequential
+
 A, they just look at the current state of the room/cleanliness of the room
 
 a) Static, b) dynamic or c) semi-dynamic
+
 B, things may change while the roomba is doing its job. Example movement of humans/pets or other movable objects
 
 a) Discrete or b) continuous
+
 B, there are no set rooms so things could change every other second, so the roomba has to adjust
 
 a) Single agent or b) multi-agent
+
 A, only the roomba is doing something while there aren’t agents going in its way to make it worse for the roomba
 
 
@@ -64,19 +74,19 @@ A, only the roomba is doing something while there aren’t agents going in its w
 
 Simple reflex
 
-These agents select actions on the basis Simple reflex agent of the current percept, ignoring the rest of the percept history. For example, the vacuum agent is a simple reflex agent, because its decision is based only on the current location and on whether that location contains dirt.
+These agents decide which actions to do based solely on the current perception, disregarding previous perceptions. For instance, the vacuum agent is a simple reflex agent since it simply considers its current position and whether it contains dirt when making decisions.
 
 Model-based reflex
 
-That is, the agent should maintain some sort of internal state that depends on the percept history and thereby reflects at least some of the unobserved Internal state aspects of the current state.
+This means that the agent should retain some kind of internal state that depends on the percept history and represents at least some of the internal state elements of the current state that are not observable.
 
 Goal-based
 
-Knowing something about the current state of the environment is not always enough to decide what to do. For example, at a road junction, the taxi can turn left, turn right, or go straight on. The correct decision depends on where the taxi is trying to get to
+The ability to make decisions is not always based solely on knowledge of the environment's current state. At a road junction, for example, the taxi can turn left, right, or continue straight. Depending on where the taxi is trying to go, the appropriate choice will be made.
 
 Utility-based
 
-Goals alone are not enough to generate high-quality behavior in most environments. For example, many action sequences will get the taxi to its destination (thereby achieving the goal), but some are quicker, safer, more reliable, or cheaper than others. Goals just provide a crude binary distinction between “happy” and “unhappy” states.
+In most situations, goals are insufficient to produce high-quality behavior. Several action sequences, for instance, will bring the cab to its destination (reaching the goal), but some are quicker, safer, more dependable, or more affordable than others. The only distinction that goals make between "happy" and "unhappy" situations is a simplistic binary one.
 
 1.2b Provide three examples of a chatbot, which you might encounter in your everyday life. Write your answer down.
 
@@ -100,12 +110,22 @@ retrieval-based,
 
 Retrieval-based chatbots are used in closed-domain scenarios and rely on a collection of predefined responses to a user message. A retrieval-based bot completes three main tasks: intent classification, entity recognition, and response selection.
 
+Adv: 
+
+
+Dis: 
 
 
 
 generative.
 
 A generative chatbot is an open-domain chatbot program that generates original combinations of language rather than selecting from pre-defined responses. seq2seq models used for machine translation can be used to build generative chatbots.
+
+Adv:
+
+
+Dis:
+
 
 
 1.2f ELIZA is an example of a ...
@@ -115,3 +135,9 @@ b) retrieval-based chatbot
 c) generative chatbot
 
 Select the correct statement, and elaborate on your choice.
+
+B, retrieval based.
+
+The reason why I choose this type of chatbot is that its neither supposed to create new and usable sentences to continue the conversation. It uses responses pre made by the developer to keep the conversation going with ways to elaborate the agent, not eliza itself.
+
+It's also not rule based for Eliza needs to find and understand typos made by the user. Failure isn't a option because that will show the illusion the developer made and ultimately make it pointless.
