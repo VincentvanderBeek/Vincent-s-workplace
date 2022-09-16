@@ -1,39 +1,27 @@
+Day 1
 
 2) Foundations of AI
 2.1 What is artificial intelligence?
 Artificial intelligence (AI) has seen a rapid rise in popularity. Research into the field of AI is rocketing, and an increasing number of companies are incorporating AI technologies into their daily business operations. But, what does AI constitute?
 
-- 
-
-2.1a Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.
-"https://www.youtube.com/embed/SN2BZswEWUA?controls=0"
-Video 1. TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.
+The simulation of human intellectual functions by machines, particularly computer systems, is referred to as artificial intelligence. Expert systems, natural language processing, speech recognition, and machine vision are some examples of specific AI applications.
 
 2.1b How would you define 'artificial intelligence'?
 
--
+the concept and creation of computer systems that can carry out tasks that would typically need human understanding, like speech recognition, language translation, and visual perception.
 
 2.1c Give three examples of AI applications. You can choose real-life examples, but also examples from popular culture (e.g., movies, books, video games etc.).
 
-- 
+AI in the generation of a sandbox, the area a player moves in that can be generated. Think about fields, caves, structures (video games)
+AI in the sense of other agents in a video game, better known as a NPC. This could be a ally or enemy, and their behavior towards you and reacting to the players decisions/movement 
+AIn recognition of creatures, what is considered a certain pet or animal in a vide that can be recommended to you because you really like cats 
 
-2.2 Philosophy of artificial intelligence
-In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g., cognitive science). The information required to complete this section successfully, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021)1. You will be using this specific book throughout the program.
-Tip: Incorporate some screen-free time in your schedule by reading a paper copy of a book/article etc. instead of a digital one. Your eyes will thank me later.
-2.2a Read the first two sub-chapters of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021) (p.19-35).
 
-Tip: If you cannot find the answer to a question in the provided literature, try to look for an answer online.
 2.2b Define the following terms: 'weak AI', and 'strong AI'.
 
--
 
-2.2c If you have not taken a coffee break yet, take one right now (with your fellow students via Microsoft Teams)! Unlike computers, humans are only able to maintain true focus for around 45 minutes. If you are experiencing some difficulties concentrating, check out the Pomodoro technique.
-
--
 
 2.2d What is the 'Chinese room experiment'? Describe its procedure.
-
--
 
 2.2e What is the 'Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
 
@@ -42,25 +30,22 @@ b) Understanding involves more than the ability to formally reproduce appropriat
 c) It is only possible for systems to demonstrate understanding
 d) No machine can demonstrate genuine understanding
 
--
-
 2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
 
+1 Weak AI, 2 Strong AI, 3 Cognitive Science, 4 Rational agents, 5 Swarm Intelligence, 6 Neuroscience, 7 Psychology, 8 Chinese Room experiment, 9 Turing Test
+
+A: Rational Thought
+B: Rational Behavior
+C: Human Thought
+D: Human Behavior 
+
 A: 2, 
-B: 1, 4, 5, 8
+B:1, 4, 5, 8
 C: 2, 3, 6, 7
 D: 3, 7, 9
 
-1:
-2:
-3:
-4:
-5:
-6:
-7:
+
+
+
 
 2.2g After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
-
--
-
-
