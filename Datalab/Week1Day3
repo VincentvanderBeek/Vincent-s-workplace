@@ -1,11 +1,9 @@
-3) Creative Brief: Minority Report (1) (10:00-12:00)
+Day 3
 
-4.1 Data scientist
 4.1a Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
 
 Extracting data from a source, transform the data to then load it into a database. In the data bank it can be easily found and read by the end user. That’s why the data scientist needs to make it easier for everyone to understand the data they will transform
 
-Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
 4.1b Come up with at least one question for the guest lecturer Willem van der Geest concerning his work as a data scientist.
 
 With the amount of different people working on the data extraction/transformation. How do you keep being on the same page when it comes to the workflow/output.
@@ -37,9 +35,6 @@ Facial recognition used for unlocking systems, security measures and data collec
 
 https://www.cigionline.org/articles/how-facial-recognition-technology-permeated-everyday-life/
 
-
-
-6a Complete the LinkedIn course Information Literacy (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage Research and Information Literacy.
 
 6b Identify, and select an AI related topic within one of the following BUAS domains:
 
@@ -75,6 +70,3 @@ Much has been written about AI's potential to reflect both the best and the wors
 After a thorough evaluation, you decide to include the quote in your report. List, and describe three approaches that help you incorporate the information correctly, thereby avoiding plagiarism. Write your answer down.
 
 6f Reading scholarly text can be complex at first, but when you get the hang of it, you will most likely enjoy reading them because they often provide valuable new insights that you can use for your projects. The following guide shows you how to effectively read a research article by applying a practical and efficient three-pass method. Please, describe the three-pass procedure. Write your answer down.
-
-How to read a paper
-Note: As you might have noticed, Computing Machinery and Intelligence (Turing, 1950) does not look like your typical data science or artificial intelligence research article. It is missing headings such as 'Introduction', 'Experiments', and/or 'Conclusion'. A good example of a traditional artificial intelligence (i.e., computer vision) article can be found, here.
