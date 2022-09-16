@@ -1,0 +1,25 @@
+Day 4
+
+1b Define the terms 'supervised' and 'unsupervised' learning. How do these types of machine learning differ from each other? Write your answer down.
+
+Supervised is the data the machine is given that has been checked by the programmers. It is data that is known and they want to know what direction the AI will take it with established knowing.
+
+Unsupervised is the opposite, meaning that the data that the AI is not given at all. Instead it's data that has been made, but not yet looked at by programers. This could be because of size or time constraints. They do give it an idea and a function they have to do, it is just on data that isn't established.
+
+
+
+1d Define the terms 'inference', and 'expert system' (Be concise!).
+
+A inference system is build on expert systems to apply rules to the data made to conclude the outcome of those expert systems
+
+An expert system is a computer software that attempts to replicate the decision-making and actions of a person or group with experience and skill in a certain sector.
+
+
+1e Are artificial neural networks (ANNs) similar to the human brain? Support your answer with arguments.
+
+I would say yes. Of course there is much less a computer can do in terms of flexibility, but the computer is way better at certain tasks when trained. A AI like a human brain needs to be trained and only then it will slowly get better, surpassing the human brain in total output at a task.
+
+1f An ANN uses a a) symbolic or b) connectionist approach to AI? Select one of the options, and explain your choice.
+
+
+1g Can you think of a real-life scenario where an AI method that uses a symbolic approach would be more suited than a method that uses a connectionist approach? Explain your answer.
